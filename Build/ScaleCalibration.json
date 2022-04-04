@@ -1,0 +1,16 @@
+{
+"companyName": "SLS",
+"productName": "ScaleCalibration",
+"productVersion": "2.4",
+"dataUrl": "ScaleCalibration.data.unityweb",
+"wasmCodeUrl": "ScaleCalibration.wasm.code.unityweb",
+"wasmFrameworkUrl": "ScaleCalibration.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.35f1"
+}
